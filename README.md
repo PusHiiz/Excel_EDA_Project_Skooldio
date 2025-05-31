@@ -1,5 +1,6 @@
 # Exploratory Data Analysis (EDA) in Excel
 ## Project Facebook Page Performance Comparison
+### Objective เปรียบเทียบ 2 pages เพื่อหาข้อแตกต่างและหา Insight ที่เป็นประโยชน์
 Project นี้เปรียบเทียบ 2 pages ทาง Facebook โดยมีขั้นตอนดังนี้
 
 - import files page A, page B, engagement
